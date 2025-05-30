@@ -1,0 +1,47 @@
+No log file found
+[INFO] Settings loaded successfully
+[INFO] Starting comprehensive ransomware protection...
+[INFO] Starting AI-Based Ransomware Detection...
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[INFO] Activating enhanced ransomware prevention...
+[ERROR] Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+[INFO] Starting enhanced file rollback monitoring...
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[INFO] Starting file system monitoring...
+[INFO] File monitoring active on 3 directories
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+[ERROR] Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+[ERROR] Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+

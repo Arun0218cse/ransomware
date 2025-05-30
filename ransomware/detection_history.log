@@ -1,0 +1,1182 @@
+2025-03-23 15:00:00 - 🚀 AI Ransomware Monitoring Started...
+2025-03-23 15:00:17 - 🛑 Monitoring stopped.
+2025-04-01 11:07:08,947 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 11:07:08,947 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 11:07:50,773 - INFO - \u26a0\ufe0f System is not running.
+2025-04-01 11:12:06,267 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 11:12:06,267 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 11:12:10,505 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-01 11:12:38,527 - INFO - \u26a0\ufe0f System is not running.
+2025-04-01 11:15:29,345 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 11:15:29,372 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 11:15:32,380 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-01 11:15:32,403 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-01 11:15:32,404 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-01 11:15:32,404 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-01 11:15:32,548 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-01 11:15:32,616 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-01 11:15:32,691 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-01 11:15:32,814 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-01 11:15:33,017 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-01 11:15:33,060 - INFO - \u2705 Prevention module started.
+2025-04-01 11:15:33,239 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:15:36,737 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1149.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:36,738 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:15:38,744 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:15:40,071 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1166.3%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:40,071 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:15:43,398 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1175.9%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:43,398 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:15:44,262 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:15:46,802 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.3%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:46,802 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:15:49,785 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:15:50,153 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1158.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:50,154 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:15:53,513 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1144.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:53,513 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:15:55,456 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:15:56,869 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1117.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:15:56,870 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:00,199 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1165.7%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:00,199 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:01,134 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:16:03,693 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1159.3%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:03,693 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:06,621 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:16:07,039 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1145.1%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:07,039 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:10,351 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1184.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:10,351 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:12,264 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 11:16:13,708 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1153.9%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:13,708 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:14,727 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-01 11:16:14,752 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-01 11:16:17,105 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1153.1%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:17,105 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:17,275 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-01 11:16:20,502 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1160.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:20,502 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:23,875 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1114.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:23,875 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:24,276 - INFO - \U0001f6d1 Rollback module stopped.
+2025-04-01 11:16:27,263 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1148.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:27,264 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:30,967 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1093.2%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:30,967 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:34,643 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1142.9%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:34,643 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:38,242 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1166.8%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:38,243 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:41,788 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1148.4%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:41,788 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:45,391 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1138.8%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:45,391 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:48,758 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1157.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:48,759 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:52,137 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1172.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:52,137 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:55,514 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1164.2%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:55,514 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:16:58,855 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1088.7%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:16:58,855 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:02,263 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1074.7%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:02,263 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:05,652 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1172.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:05,652 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:08,997 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1149.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:08,997 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:12,350 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1094.9%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:12,351 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:15,736 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1077.2%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:15,736 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:19,131 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1158.3%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:19,132 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:22,469 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1173.7%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:22,469 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:25,837 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1160.4%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:25,837 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:29,187 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1082.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:29,187 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:32,607 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1099.1%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:32,608 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:35,959 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1170.7%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:35,959 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:39,308 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1169.2%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:39,308 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:42,681 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1087.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:42,682 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:46,071 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1128.4%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:46,071 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 11:17:49,556 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1096.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 11:17:49,557 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 14:32:54,237 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:32:54,237 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:36:44,097 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:36:44,097 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:36:44,097 - INFO - No previous history data found.
+2025-04-01 14:40:49,932 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:40:49,932 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:40:49,932 - INFO - History data loaded from history_data.csv
+2025-04-01 14:40:49,932 - INFO - Error loading history: '_tkinter.tkapp' object has no attribute 'log_box'
+2025-04-01 14:43:56,635 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:43:56,636 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:43:56,636 - INFO - Error loading history: Ran out of input
+2025-04-01 14:44:15,157 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:44:15,157 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:44:15,157 - INFO - Error loading history: Ran out of input
+2025-04-01 14:49:53,655 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:49:53,656 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:49:53,656 - INFO - No previous history data found or error in unpickling.
+2025-04-01 14:53:24,784 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 14:53:24,784 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 14:53:24,784 - INFO - No previous history data found or error in unpickling.
+2025-04-01 15:05:02,288 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:05:02,289 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:05:02,289 - INFO - 2025-04-01 15:05:02 - RansomwareProtection: No previous history data found or error in unpickling.
+2025-04-01 15:13:32,976 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:13:32,976 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:13:32,976 - INFO - 2025-04-01 15:13:32 - RansomwareProtection: No previous history data found or error in unpickling.
+2025-04-01 15:14:44,435 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:14:44,435 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:14:44,435 - INFO - No previous history data found or error in unpickling.
+2025-04-01 15:14:51,041 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:14:51,041 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:14:51,042 - INFO - No previous history data found or error in unpickling.
+2025-04-01 15:15:53,592 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:15:53,592 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:15:53,592 - INFO - Error loading history: Ran out of input
+2025-04-01 15:16:27,023 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:16:27,023 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:16:27,023 - INFO - History data loaded from history_data.csv
+2025-04-01 15:16:27,023 - INFO - Error loading history: '_tkinter.tkapp' object has no attribute 'log_box'
+2025-04-01 15:16:38,039 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:16:38,039 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:16:38,039 - INFO - History data loaded from history_data.csv
+2025-04-01 15:16:38,039 - INFO - Error loading history: '_tkinter.tkapp' object has no attribute 'log_box'
+2025-04-01 15:16:47,859 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:16:47,859 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:16:47,860 - INFO - History data loaded from history_data.csv
+2025-04-01 15:16:47,860 - INFO - Error loading history: '_tkinter.tkapp' object has no attribute 'log_box'
+2025-04-01 15:16:59,933 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:16:59,933 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:16:59,933 - INFO - History data loaded from history_data.csv
+2025-04-01 15:16:59,933 - INFO - Error loading history: '_tkinter.tkapp' object has no attribute 'log_box'
+2025-04-01 15:17:10,648 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-01 15:17:10,649 - WARNING - No trained model found. Detection will be less effective.
+2025-04-01 15:17:24,573 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-01 15:17:24,606 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-01 15:17:24,606 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-01 15:17:24,607 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-01 15:17:24,803 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-01 15:17:24,854 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-01 15:17:25,003 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-01 15:17:25,082 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:25,087 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-01 15:17:25,230 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-01 15:17:25,231 - INFO - \u2705 Prevention module started.
+2025-04-01 15:17:28,690 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1162.3%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:28,690 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:30,449 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:31,933 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1178.7%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:31,934 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:35,171 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1185.8%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:35,171 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:35,880 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:38,414 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1154.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:38,414 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:41,251 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:41,648 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1174.3%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:41,649 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:44,884 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1181.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:44,885 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:46,646 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:48,132 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1149.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:48,132 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:51,437 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1161.8%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:51,438 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:52,112 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:54,705 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1171.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:54,705 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:17:57,475 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:17:57,939 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1155.6%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:17:57,939 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:18:01,176 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1175.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:18:01,176 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:18:02,872 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-01 15:18:04,413 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1156.5%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:18:04,413 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:18:07,488 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-01 15:18:07,498 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-01 15:18:07,675 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.8%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:18:07,676 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:18:07,886 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-01 15:18:10,915 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1181.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:18:10,916 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:18:14,211 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1171.0%, MEM: 9.974460394160751e-05%)
+2025-04-01 15:18:14,212 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-01 15:18:15,133 - INFO - \U0001f6d1 Rollback module stopped.
+2025-04-02 14:15:47,835 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-02 14:15:47,835 - WARNING - No trained model found. Detection will be less effective.
+2025-04-02 14:16:14,080 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-02 14:16:14,115 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-02 14:16:14,116 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-02 14:16:14,117 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-02 14:16:14,207 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-02 14:16:14,262 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-02 14:16:14,358 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-02 14:16:14,489 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-02 14:16:14,603 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:14,659 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-02 14:16:14,660 - INFO - \u2705 Prevention module started.
+2025-04-02 14:16:18,139 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1139.6%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:18,139 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:19,910 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:21,360 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1131.2%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:21,360 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:24,593 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1146.5%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:24,593 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:25,236 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:27,807 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1162.1%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:27,807 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:30,541 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:31,014 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1173.8%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:31,014 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:34,225 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1169.8%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:34,225 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:35,959 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:37,499 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1158.9%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:37,499 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:40,712 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1190.3%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:40,713 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:41,271 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:43,927 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1177.0%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:43,928 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:46,596 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:47,139 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1156.5%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:47,139 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:50,355 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1184.8%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:50,356 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:51,921 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:16:53,576 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1162.8%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:53,576 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:56,791 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1130.6%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:16:56,791 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:16:57,288 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:17:00,067 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1165.6%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:00,067 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:17:02,590 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:17:03,280 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1175.3%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:03,280 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:17:06,484 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1159.0%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:06,485 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:17:07,898 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:17:09,700 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1171.5%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:09,700 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:17:13,015 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.0%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:13,015 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:17:13,516 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-02 14:17:13,635 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-02 14:17:13,642 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-02 14:17:14,818 - INFO - \U0001f6d1 Rollback module stopped.
+2025-04-02 14:17:16,476 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1163.1%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:16,476 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:17:18,517 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-02 14:17:19,690 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1129.3%, MEM: 9.974460394160751e-05%)
+2025-04-02 14:17:19,690 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-02 14:37:49,755 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-02 14:37:49,755 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 07:12:01,361 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 07:12:01,361 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 11:53:36,734 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 11:53:36,735 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 11:54:59,496 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 11:54:59,496 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 11:55:55,210 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 11:55:55,214 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 11:56:08,271 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-03 11:56:08,333 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-03 11:56:08,334 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-03 11:56:08,335 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-03 11:56:08,507 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-03 11:56:08,610 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-03 11:56:08,723 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-03 11:56:08,840 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-03 11:56:09,115 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:56:09,135 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-03 11:56:09,136 - INFO - \u2705 Prevention module started.
+2025-04-03 11:56:12,900 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1147.3%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:56:12,901 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:56:14,667 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:56:16,290 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1162.0%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:56:16,291 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:56:19,647 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1177.0%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:56:19,648 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:56:20,699 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:56:23,459 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1137.1%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:56:23,459 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:56:26,269 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:56:26,836 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1147.8%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:56:26,836 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:56:30,172 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1170.8%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:56:30,173 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:56:31,991 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:56:57,904 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 11:56:57,904 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 11:57:00,786 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-03 11:57:00,839 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-03 11:57:00,840 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-03 11:57:00,840 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-03 11:57:00,960 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-03 11:57:01,048 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-03 11:57:01,113 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-03 11:57:01,201 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-03 11:57:01,408 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-03 11:57:01,460 - INFO - \u2705 Prevention module started.
+2025-04-03 11:57:01,662 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:57:05,223 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1149.1%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:05,223 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:07,249 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:57:08,570 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1126.8%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:08,571 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:11,917 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1180.7%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:11,917 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:12,860 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:57:15,333 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1113.4%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:15,333 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:18,455 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:57:18,681 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1163.8%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:18,681 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:22,021 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1171.8%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:22,022 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:24,150 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-03 11:57:25,441 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1131.7%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:25,442 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:28,781 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1178.2%, MEM: 9.974460394160751e-05%)
+2025-04-03 11:57:28,781 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-03 11:57:28,857 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-03 11:57:28,906 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-03 11:57:29,160 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-03 13:34:31,336 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 13:34:31,336 - WARNING - No trained model found. Detection will be less effective.
+2025-04-03 20:36:34,211 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-03 20:36:34,211 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 13:12:18,743 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 13:12:18,744 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 13:12:30,595 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-04 13:12:30,655 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-04 13:12:30,655 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-04 13:12:30,656 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-04 13:12:30,872 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-04 13:12:30,974 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-04 13:12:31,069 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-04 13:12:31,191 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-04 13:12:31,438 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-04 13:12:31,506 - INFO - \u2705 Prevention module started.
+2025-04-04 13:12:31,603 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:12:35,437 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1135.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:12:35,437 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:12:37,291 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:12:38,893 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1146.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:12:38,893 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:12:40,313 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-04 13:12:40,321 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-04 13:12:41,788 - INFO - \U0001f6d1 Rollback module stopped.
+2025-04-04 13:12:42,292 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-04 13:12:42,344 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1113.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:12:42,345 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:18:30,788 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 13:18:30,788 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 13:19:46,639 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-04 13:19:46,660 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-04 13:19:46,661 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-04 13:19:46,662 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-04 13:19:46,824 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-04 13:19:46,914 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-04 13:19:46,959 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-04 13:19:47,135 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-04 13:19:47,374 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-04 13:19:47,414 - INFO - \u2705 Prevention module started.
+2025-04-04 13:19:47,455 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:19:51,163 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1144.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:19:51,163 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:19:53,004 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:19:54,491 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1163.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:19:54,491 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:19:57,837 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1173.5%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:19:57,837 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:19:58,846 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:01,480 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1154.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:01,480 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:04,184 - ERROR - Error collecting system metrics: process no longer exists (pid=8360, name='SDXHelper.exe')
+2025-04-04 13:20:04,212 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:04,936 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1165.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:04,936 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:08,286 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1160.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:08,286 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:09,750 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:11,691 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1154.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:11,691 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:15,053 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1164.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:15,053 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:15,540 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:18,638 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1160.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:18,638 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:21,069 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:21,993 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1147.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:21,993 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:25,313 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1171.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:25,313 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:26,583 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:28,677 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1128.3%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:28,677 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:32,026 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.5%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:32,026 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:32,239 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:35,465 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1164.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:35,465 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:37,765 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:38,823 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1125.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:38,823 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:42,217 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1159.5%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:42,218 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:43,275 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:45,578 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1146.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:45,579 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:48,907 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:48,924 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1133.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:48,924 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:52,286 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1159.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:52,287 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:54,452 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:20:55,655 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1151.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:55,656 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:58,981 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1120.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:20:58,981 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:20:59,979 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:02,342 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1151.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:02,342 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:05,533 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:05,703 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1155.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:05,703 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:09,032 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1153.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:09,032 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:11,044 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:12,385 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1162.3%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:12,386 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:15,735 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1181.3%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:15,735 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:16,606 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:19,154 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1139.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:19,154 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:22,174 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:22,489 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1160.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:22,489 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:25,811 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1185.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:25,811 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:27,719 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:29,174 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1141.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:29,174 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:32,507 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1180.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:32,508 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:33,375 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:35,979 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1163.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:35,979 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:38,977 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:39,337 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.3%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:39,337 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:42,662 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1181.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:42,663 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:44,520 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:46,031 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1150.3%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:46,032 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:49,380 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:49,380 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:50,224 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:52,861 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1138.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:52,861 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:55,778 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:21:56,223 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1147.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:56,223 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:21:59,544 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1142.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:21:59,545 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:01,301 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:02,885 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1137.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:02,885 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:06,230 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1143.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:06,231 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:07,066 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:09,852 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1096.8%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:09,853 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:12,658 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:13,181 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1144.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:13,182 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:16,514 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1154.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:16,514 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:18,184 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:19,841 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1110.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:19,842 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:23,179 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1164.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:23,179 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:24,058 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:26,857 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1160.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:26,857 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:29,660 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:30,186 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1139.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:30,186 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:33,510 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1173.8%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:33,510 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:35,193 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:36,831 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1167.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:36,831 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:40,174 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1145.8%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:40,174 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:41,026 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:43,802 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1163.5%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:43,802 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:46,573 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:47,128 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1166.8%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:47,129 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:50,448 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1153.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:50,449 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:52,087 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:22:53,798 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1169.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:53,798 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:57,151 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1177.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:22:57,160 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:22:58,017 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 13:23:00,931 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1109.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:23:00,932 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:23:01,821 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-04 13:23:01,863 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-04 13:23:03,018 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-04 13:23:04,310 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1158.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:23:04,310 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:23:07,682 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1144.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:23:07,682 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:23:08,202 - INFO - \U0001f6d1 Rollback module stopped.
+2025-04-04 13:23:11,043 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1154.5%, MEM: 9.974460394160751e-05%)
+2025-04-04 13:23:11,043 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 13:29:58,102 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 13:29:58,103 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 13:33:27,738 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 13:33:27,738 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 14:50:37,310 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 14:50:37,310 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 14:51:26,216 - INFO - \U0001f680 Ransomware Protection System Running...
+2025-04-04 14:51:26,238 - INFO - \U0001f50d AI-Based Ransomware Detection Activated...
+2025-04-04 14:51:26,239 - INFO - \U0001f6e1\ufe0f Activating ransomware prevention system...
+2025-04-04 14:51:26,239 - INFO - \U0001f504 Monitoring encrypted files for rollback...
+2025-04-04 14:51:26,371 - WARNING - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-04-04 14:51:26,529 - WARNING - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-04-04 14:51:26,682 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:51:26,682 - WARNING - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-04-04 14:51:26,709 - INFO - Secured file permissions for: C:\Users\Public
+2025-04-04 14:51:26,850 - INFO - \U0001f512 Network access blocked for suspicious activities.
+2025-04-04 14:51:26,851 - INFO - \u2705 Prevention module started.
+2025-04-04 14:51:30,374 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1161.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:30,375 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:32,142 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:51:33,630 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1108.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:33,630 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:36,887 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1095.3%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:36,887 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:36,890 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 74.3%, MEM: 0.0016956582670073278%)
+2025-04-04 14:51:36,890 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:51:37,561 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:51:40,150 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1075.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:40,150 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:43,046 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:51:43,556 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1077.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:43,557 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:46,959 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1101.8%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:46,959 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:48,583 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:51:50,249 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1060.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:50,249 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:53,591 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1110.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:53,592 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:54,300 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:51:57,143 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1137.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:51:57,143 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:51:59,727 - WARNING - Cannot perform detection as no model is loaded.
+2025-04-04 14:52:00,343 - INFO - \U0001f6d1 Stopping Ransomware Protection System...
+2025-04-04 14:52:00,350 - INFO - \U0001f6d1 Prevention module stopped.
+2025-04-04 14:52:00,420 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1096.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:00,420 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:03,688 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1134.8%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:03,688 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:04,728 - INFO - \U0001f6d1 Detection module stopped.
+2025-04-04 14:52:06,691 - INFO - \U0001f6d1 Rollback module stopped.
+2025-04-04 14:52:06,980 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1141.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:06,981 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:10,257 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1111.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:10,257 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:13,524 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1141.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:13,524 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:16,815 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1142.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:16,815 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:20,071 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1136.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:20,072 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:23,406 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1120.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:23,407 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:26,697 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1065.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:26,698 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:30,453 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 468.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:30,453 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:30,458 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 117.7%, MEM: 0.0016956582670073278%)
+2025-04-04 14:52:30,459 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:52:30,927 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: code.exe (CPU: 57.4%, MEM: 1.7911138529794461%)
+2025-04-04 14:52:30,928 - WARNING - \u26a0\ufe0f Terminated suspicious process: code.exe (PID: 5536)
+2025-04-04 14:52:32,833 - ERROR - \u274c Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-af9bc351458sm2079624a12.43 - gsmtp')
+2025-04-04 14:52:33,019 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: code.exe (CPU: 112.0%, MEM: 3.760521185504516%)
+2025-04-04 14:52:33,020 - WARNING - \u26a0\ufe0f Terminated suspicious process: code.exe (PID: 9880)
+2025-04-04 14:52:34,532 - ERROR - \u274c Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2297877288csm27745875ad.232 - gsmtp')
+2025-04-04 14:52:37,603 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 846.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:37,603 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:37,606 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 57.9%, MEM: 0.0016956582670073278%)
+2025-04-04 14:52:37,606 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:52:40,982 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1129.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:40,983 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:44,293 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1149.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:44,293 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:47,565 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1153.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:47,565 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:50,832 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1147.7%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:50,833 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:54,134 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1008.5%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:54,134 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:57,788 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 582.0%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:52:57,788 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:52:57,794 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 143.7%, MEM: 0.0016956582670073278%)
+2025-04-04 14:52:57,794 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:52:57,816 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: code.exe (CPU: 100.8%, MEM: 4.133615876548099%)
+2025-04-04 14:52:57,817 - WARNING - \u26a0\ufe0f Terminated suspicious process: code.exe (PID: 996)
+2025-04-04 14:52:59,341 - ERROR - \u274c Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-739d97f2fc8sm3008287b3a.63 - gsmtp')
+2025-04-04 14:53:00,043 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: code.exe (CPU: 81.7%, MEM: 4.420431485182191%)
+2025-04-04 14:53:00,044 - WARNING - \u26a0\ufe0f Terminated suspicious process: code.exe (PID: 18256)
+2025-04-04 14:53:02,420 - ERROR - \u274c Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2297865c1ffsm27763565ad.126 - gsmtp')
+2025-04-04 14:53:05,450 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 966.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:05,450 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:05,453 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 60.4%, MEM: 0.0016956582670073278%)
+2025-04-04 14:53:05,453 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:53:08,755 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1002.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:08,755 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:12,478 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 564.1%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:12,478 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:12,482 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 112.1%, MEM: 0.0016956582670073278%)
+2025-04-04 14:53:12,482 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:53:12,969 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: code.exe (CPU: 81.7%, MEM: 3.755733444515318%)
+2025-04-04 14:53:12,969 - WARNING - \u26a0\ufe0f Terminated suspicious process: code.exe (PID: 5264)
+2025-04-04 14:53:15,544 - ERROR - \u274c Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30588a2f6b2sm2990767a91.24 - gsmtp')
+2025-04-04 14:53:15,706 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: code.exe (CPU: 77.3%, MEM: 4.047636027950433%)
+2025-04-04 14:53:15,707 - WARNING - \u26a0\ufe0f Terminated suspicious process: code.exe (PID: 6952)
+2025-04-04 14:53:17,241 - ERROR - \u274c Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-305983bce79sm2974596a91.37 - gsmtp')
+2025-04-04 14:53:20,342 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 878.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:20,342 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:20,346 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 63.8%, MEM: 0.0016956582670073278%)
+2025-04-04 14:53:20,346 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:53:23,632 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1131.6%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:23,633 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:26,940 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1135.2%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:26,940 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:30,396 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1052.4%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:30,396 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:53:30,400 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system (CPU: 55.6%, MEM: 0.0016956582670073278%)
+2025-04-04 14:53:30,400 - ERROR - \u274c Failed to terminate system: (pid=4)
+2025-04-04 14:53:33,803 - WARNING - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1025.9%, MEM: 9.974460394160751e-05%)
+2025-04-04 14:53:33,803 - ERROR - \u274c Failed to terminate system idle process: (pid=0)
+2025-04-04 14:54:57,381 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 14:54:57,381 - WARNING - No trained model found. Detection will be less effective.
+2025-04-04 14:55:12,099 - WARNING - System is not running
+2025-04-04 14:57:23,122 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 14:57:23,123 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-04 14:57:23,123 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-04 14:57:23,123 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-04 14:58:35,004 - WARNING - System is not running
+2025-04-04 15:03:30,316 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 15:03:30,316 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-04 15:03:30,316 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-04 15:03:30,316 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-04 15:03:51,945 - INFO - Starting comprehensive ransomware protection...
+2025-04-04 15:03:51,945 - INFO - Starting AI-Based Ransomware Detection...
+2025-04-04 15:03:51,946 - INFO - Activating enhanced ransomware prevention...
+2025-04-04 15:03:51,946 - ERROR - Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+2025-04-04 15:03:51,946 - INFO - Starting enhanced file rollback monitoring...
+2025-04-04 15:03:51,946 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:03:51,947 - INFO - Starting file system monitoring...
+2025-04-04 15:03:51,949 - INFO - File monitoring active on 3 directories
+2025-04-04 15:03:53,579 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:53,588 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:53,607 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:53,771 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:53,808 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:53,985 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:53,994 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,012 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,148 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,176 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,297 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,337 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,420 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,441 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,451 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,461 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,462 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,471 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,482 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,482 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,483 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,483 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,483 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,497 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,538 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,538 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,580 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,594 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,615 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,616 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,631 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,631 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,700 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,700 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,700 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,713 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,713 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,750 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,750 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,762 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,762 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,762 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,763 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,763 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,763 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,775 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,775 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,837 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,837 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,848 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,849 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,849 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,849 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,860 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,860 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,861 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,861 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,861 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,861 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,861 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,873 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,884 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,884 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,884 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,885 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,885 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:54,885 - INFO - Combined detection score: 0.12
+2025-04-04 15:03:54,885 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:03:59,498 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,503 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,512 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,596 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,615 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,705 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,710 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,720 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,786 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,800 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,863 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,884 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,925 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,935 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,940 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,945 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,945 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,951 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,956 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,956 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,956 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,956 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,956 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,961 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,976 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,976 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,991 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:03:59,997 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,001 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,002 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,006 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,007 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,037 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,037 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,038 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,042 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,042 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,057 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,057 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,063 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,063 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,063 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,063 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,063 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,063 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,068 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,068 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,092 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,092 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,097 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,097 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,097 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,097 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,102 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,102 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,103 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,103 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,103 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,103 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,103 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,108 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,109 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,114 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,114 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,114 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,114 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,114 - ERROR - Error analyzing process: name 'os' is not defined
+2025-04-04 15:04:00,115 - INFO - Combined detection score: 0.12
+2025-04-04 15:04:00,115 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:04:00,171 - INFO - Stopping protection system...
+2025-04-04 15:04:00,175 - INFO - File monitoring stopped
+2025-04-04 15:04:01,947 - INFO - Rollback module stopped
+2025-04-04 15:04:03,115 - INFO - Detection module stopped
+2025-04-04 15:04:03,899 - WARNING - System is not running
+2025-04-04 15:04:34,729 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 15:04:34,729 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-04 15:04:34,729 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-04 15:04:34,729 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-04 15:05:23,662 - WARNING - System is not running
+2025-04-04 15:18:00,848 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 15:18:00,848 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-04 15:18:00,849 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-04 15:18:00,849 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-04 15:18:13,365 - WARNING - System is not running
+2025-04-04 15:19:25,060 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 15:19:25,060 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-04 15:19:25,060 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-04 15:19:25,060 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-04 15:19:36,551 - INFO - Starting comprehensive ransomware protection...
+2025-04-04 15:19:36,551 - INFO - Starting AI-Based Ransomware Detection...
+2025-04-04 15:19:36,552 - INFO - Activating enhanced ransomware prevention...
+2025-04-04 15:19:36,553 - ERROR - Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+2025-04-04 15:19:36,553 - INFO - Starting enhanced file rollback monitoring...
+2025-04-04 15:19:36,554 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:19:36,554 - INFO - Starting file system monitoring...
+2025-04-04 15:19:36,559 - INFO - File monitoring active on 3 directories
+2025-04-04 15:19:38,834 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:19:40,233 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:19:42,398 - INFO - Combined detection score: 0.14
+2025-04-04 15:19:42,398 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:19:46,570 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:19:47,540 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:19:48,610 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:19:50,586 - INFO - Combined detection score: 0.14
+2025-04-04 15:19:50,586 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:19:55,786 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:19:56,570 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:19:56,801 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:19:58,751 - INFO - Combined detection score: 0.14
+2025-04-04 15:19:58,751 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:20:04,294 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:20:05,584 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:20:06,571 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:20:07,769 - INFO - Combined detection score: 0.14
+2025-04-04 15:20:07,769 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:20:13,587 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:20:15,022 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:20:16,571 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:20:17,103 - INFO - Combined detection score: 0.14
+2025-04-04 15:20:17,103 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:20:22,528 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:20:23,828 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:20:25,887 - INFO - Combined detection score: 0.14
+2025-04-04 15:20:25,887 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:20:26,572 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:20:31,127 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:20:32,242 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:20:34,239 - INFO - Combined detection score: 0.14
+2025-04-04 15:20:34,239 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:20:36,572 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:20:39,393 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:20:40,439 - WARNING - Suspicious process: PID=7156 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:20:41,281 - INFO - Stopping protection system...
+2025-04-04 15:20:41,283 - INFO - File monitoring stopped
+2025-04-04 15:20:42,341 - INFO - Combined detection score: 0.14
+2025-04-04 15:20:42,341 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:20:45,342 - INFO - Detection module stopped
+2025-04-04 15:20:45,926 - WARNING - System is not running
+2025-04-04 15:26:25,290 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-04 15:26:25,290 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-04 15:26:25,290 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-04 15:26:25,290 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-04 15:26:34,056 - INFO - Starting comprehensive ransomware protection...
+2025-04-04 15:26:34,057 - INFO - Starting AI-Based Ransomware Detection...
+2025-04-04 15:26:34,058 - INFO - Activating enhanced ransomware prevention...
+2025-04-04 15:26:34,058 - ERROR - Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+2025-04-04 15:26:34,058 - INFO - Starting enhanced file rollback monitoring...
+2025-04-04 15:26:34,059 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:26:34,059 - INFO - Starting file system monitoring...
+2025-04-04 15:26:34,064 - INFO - File monitoring active on 3 directories
+2025-04-04 15:26:36,299 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:26:37,342 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:26:39,644 - INFO - Combined detection score: 0.14
+2025-04-04 15:26:39,644 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:26:44,069 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:26:44,766 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:26:45,535 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:26:47,618 - INFO - Combined detection score: 0.14
+2025-04-04 15:26:47,618 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:26:52,751 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:26:53,529 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:26:54,070 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:26:55,597 - INFO - Combined detection score: 0.14
+2025-04-04 15:26:55,598 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:00,728 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:01,506 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:03,576 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:03,576 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:04,071 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:27:08,777 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:09,583 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:11,684 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:11,684 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:14,071 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:27:16,819 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:17,599 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:19,754 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:19,754 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:24,081 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:27:24,880 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:25,652 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:27,842 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:27,842 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:33,029 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:33,830 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:34,082 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:27:35,882 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:35,883 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:40,997 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:41,764 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:43,844 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:43,844 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:44,083 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:27:48,958 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:49,729 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-04 15:27:51,753 - INFO - Combined detection score: 0.14
+2025-04-04 15:27:51,753 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-04 15:27:54,084 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-04 15:27:54,836 - INFO - Stopping protection system...
+2025-04-04 15:27:54,837 - INFO - File monitoring stopped
+2025-04-04 15:27:56,933 - WARNING - Suspicious process: PID=1908 Name='Code.exe' Reason=keyword_match
+2025-04-04 15:27:57,719 - WARNING - Suspicious process: PID=5856 Name='python3.13.exe' Reason=keyword_match
+2025-04-12 15:20:20,149 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-12 15:20:20,150 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-12 15:20:20,150 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-12 15:20:20,150 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-12 15:20:34,333 - WARNING - System is not running
+2025-04-13 12:41:15,047 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-13 12:41:15,048 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-13 12:41:15,048 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-13 12:41:15,048 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-13 12:41:45,106 - INFO - Starting comprehensive ransomware protection...
+2025-04-13 12:41:45,106 - INFO - Starting AI-Based Ransomware Detection...
+2025-04-13 12:41:45,108 - INFO - Activating enhanced ransomware prevention...
+2025-04-13 12:41:45,108 - ERROR - Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+2025-04-13 12:41:45,109 - INFO - Starting enhanced file rollback monitoring...
+2025-04-13 12:41:45,110 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-13 12:41:45,110 - INFO - Starting file system monitoring...
+2025-04-13 12:41:45,119 - INFO - File monitoring active on 3 directories
+2025-04-13 12:41:47,193 - WARNING - Suspicious process: PID=1512 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:49,082 - WARNING - Suspicious process: PID=9652 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:49,292 - WARNING - Suspicious process: PID=9968 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:50,073 - WARNING - Suspicious process: PID=12084 Name='Code.exe' Reason=keyword_match
+2025-04-13 12:41:50,360 - WARNING - Suspicious process: PID=14188 Name='python.exe' Reason=keyword_match
+2025-04-13 12:41:50,555 - WARNING - Suspicious process: PID=15172 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:50,572 - WARNING - Suspicious process: PID=15356 Name='WINWORD.EXE' Reason=keyword_match
+2025-04-13 12:41:50,576 - WARNING - Suspicious process: PID=15960 Name='python3.13.exe' Reason=keyword_match
+2025-04-13 12:41:51,672 - INFO - Combined detection score: 0.17
+2025-04-13 12:41:51,672 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-13 12:41:55,111 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-13 12:41:56,515 - WARNING - Suspicious process: PID=1512 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:57,706 - WARNING - Suspicious process: PID=9652 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:57,884 - WARNING - Suspicious process: PID=9968 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:58,403 - WARNING - Suspicious process: PID=12084 Name='Code.exe' Reason=keyword_match
+2025-04-13 12:41:58,609 - WARNING - Suspicious process: PID=14188 Name='python.exe' Reason=keyword_match
+2025-04-13 12:41:58,794 - WARNING - Suspicious process: PID=15172 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:41:58,803 - WARNING - Suspicious process: PID=15356 Name='WINWORD.EXE' Reason=keyword_match
+2025-04-13 12:41:58,804 - WARNING - Suspicious process: PID=15960 Name='python3.13.exe' Reason=keyword_match
+2025-04-13 12:41:59,720 - INFO - Combined detection score: 0.17
+2025-04-13 12:41:59,720 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-13 12:42:04,513 - WARNING - Suspicious process: PID=1512 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:05,112 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-13 12:42:05,765 - WARNING - Suspicious process: PID=9652 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:05,948 - WARNING - Suspicious process: PID=9968 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:06,494 - WARNING - Suspicious process: PID=12084 Name='Code.exe' Reason=keyword_match
+2025-04-13 12:42:06,703 - WARNING - Suspicious process: PID=14188 Name='python.exe' Reason=keyword_match
+2025-04-13 12:42:06,899 - WARNING - Suspicious process: PID=15172 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:06,907 - WARNING - Suspicious process: PID=15356 Name='WINWORD.EXE' Reason=keyword_match
+2025-04-13 12:42:06,909 - WARNING - Suspicious process: PID=15960 Name='python3.13.exe' Reason=keyword_match
+2025-04-13 12:42:07,837 - INFO - Combined detection score: 0.17
+2025-04-13 12:42:07,837 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-13 12:42:12,652 - WARNING - Suspicious process: PID=1512 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:13,784 - WARNING - Suspicious process: PID=9652 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:13,959 - WARNING - Suspicious process: PID=9968 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:14,488 - WARNING - Suspicious process: PID=12084 Name='Code.exe' Reason=keyword_match
+2025-04-13 12:42:14,703 - WARNING - Suspicious process: PID=14188 Name='python.exe' Reason=keyword_match
+2025-04-13 12:42:14,897 - WARNING - Suspicious process: PID=15172 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:14,905 - WARNING - Suspicious process: PID=15356 Name='WINWORD.EXE' Reason=keyword_match
+2025-04-13 12:42:14,907 - WARNING - Suspicious process: PID=15960 Name='python3.13.exe' Reason=keyword_match
+2025-04-13 12:42:15,113 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-13 12:42:15,868 - INFO - Combined detection score: 0.17
+2025-04-13 12:42:15,868 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-13 12:42:20,721 - WARNING - Suspicious process: PID=1512 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:21,937 - WARNING - Suspicious process: PID=9652 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:22,124 - WARNING - Suspicious process: PID=9968 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:22,687 - WARNING - Suspicious process: PID=12084 Name='Code.exe' Reason=keyword_match
+2025-04-13 12:42:22,891 - INFO - Stopping protection system...
+2025-04-13 12:42:22,892 - INFO - File monitoring stopped
+2025-04-13 12:42:22,900 - WARNING - Suspicious process: PID=14188 Name='python.exe' Reason=keyword_match
+2025-04-13 12:42:23,080 - WARNING - Suspicious process: PID=15172 Name='ransomware_protection.exe' Reason=keyword_match
+2025-04-13 12:42:23,087 - WARNING - Suspicious process: PID=15356 Name='WINWORD.EXE' Reason=keyword_match
+2025-04-13 12:42:23,089 - WARNING - Suspicious process: PID=15960 Name='python3.13.exe' Reason=keyword_match
+2025-04-13 12:42:23,952 - INFO - Combined detection score: 0.17
+2025-04-13 12:42:23,953 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'check_network_connections'
+2025-04-13 12:42:25,114 - INFO - Rollback module stopped
+2025-04-13 12:42:26,953 - INFO - Detection module stopped
+2025-04-13 12:42:27,816 - WARNING - System is not running
+2025-04-19 10:02:55,818 - WARNING - Model file not found at ransomware_model.pkl
+2025-04-19 10:02:55,818 - WARNING - Config file detector_config.json not found, using defaults
+2025-04-19 10:02:55,819 - WARNING - No trained model found. Using heuristic detection only.
+2025-04-19 10:02:55,819 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-19 10:04:35,501 - WARNING - System is not running
+2025-04-21 09:12:26,438 - WARNING - Model path not found: ransomware_model.pkl
+2025-04-21 09:13:28,922 - WARNING - Model path not found: ransomware_model.pkl
+2025-04-21 09:13:28,922 - ERROR - Failed to load config: [Errno 2] No such file or directory: 'detector_config.json'
+2025-04-21 09:13:28,922 - WARNING - No pre-trained file_entropy model found, initializing new one
+2025-04-21 09:13:28,922 - WARNING - No pre-trained process_behavior model found, initializing new one
+2025-04-21 09:13:28,922 - WARNING - No pre-trained network_traffic model found, initializing new one
+2025-04-21 09:13:28,922 - WARNING - No pre-trained system_metrics model found, initializing new one
+2025-04-21 09:13:28,922 - WARNING - No trained model found. Using heuristic and AI detection.
+2025-04-21 09:13:28,922 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-21 09:13:28,925 - WARNING - No pre-trained file_entropy model found, initializing new one
+2025-04-21 09:13:28,925 - WARNING - No pre-trained process_behavior model found, initializing new one
+2025-04-21 09:13:28,925 - WARNING - No pre-trained network_traffic model found, initializing new one
+2025-04-21 09:13:28,925 - WARNING - No pre-trained system_metrics model found, initializing new one
+2025-04-21 09:13:41,113 - INFO - Starting comprehensive ransomware protection...
+2025-04-21 09:13:41,114 - INFO - Starting AI-Based Ransomware Detection...
+2025-04-21 09:13:41,115 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:13:41,115 - INFO - Activating enhanced ransomware prevention...
+2025-04-21 09:13:41,115 - ERROR - Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+2025-04-21 09:13:41,115 - INFO - Starting enhanced file rollback monitoring...
+2025-04-21 09:13:41,116 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:13:41,116 - INFO - Starting file system monitoring...
+2025-04-21 09:13:41,121 - INFO - File monitoring active on 3 directories
+2025-04-21 09:13:44,116 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:13:47,117 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:13:50,118 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:13:51,117 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:13:53,119 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:13:56,120 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:13:59,121 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:14:01,118 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:14:02,121 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:14:05,123 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:14:08,124 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:14:11,118 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:14:11,124 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:14:14,125 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:14:14,344 - INFO - Stopping protection system...
+2025-04-21 09:14:14,348 - INFO - File monitoring stopped
+2025-04-21 09:14:17,126 - INFO - Detection module stopped
+2025-04-21 09:14:21,119 - INFO - Rollback module stopped
+2025-04-21 09:14:22,438 - WARNING - System is not running
+2025-04-21 09:19:33,286 - WARNING - Model path not found: ransomware_model.pkl
+2025-04-21 09:19:33,286 - ERROR - Failed to load config: [Errno 2] No such file or directory: 'detector_config.json'
+2025-04-21 09:19:33,286 - WARNING - No pre-trained file_entropy model found, initializing new one
+2025-04-21 09:19:33,286 - WARNING - No pre-trained process_behavior model found, initializing new one
+2025-04-21 09:19:33,286 - WARNING - No pre-trained network_traffic model found, initializing new one
+2025-04-21 09:19:33,286 - WARNING - No pre-trained system_metrics model found, initializing new one
+2025-04-21 09:19:33,286 - WARNING - No trained model found. Using heuristic and AI detection.
+2025-04-21 09:19:33,286 - WARNING - Whitelist file not found, using empty whitelist
+2025-04-21 09:19:33,287 - WARNING - No pre-trained file_entropy model found, initializing new one
+2025-04-21 09:19:33,287 - WARNING - No pre-trained process_behavior model found, initializing new one
+2025-04-21 09:19:33,287 - WARNING - No pre-trained network_traffic model found, initializing new one
+2025-04-21 09:19:33,287 - WARNING - No pre-trained system_metrics model found, initializing new one
+2025-04-21 09:19:37,342 - INFO - Starting comprehensive ransomware protection...
+2025-04-21 09:19:37,343 - INFO - Starting AI-Based Ransomware Detection...
+2025-04-21 09:19:37,344 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:37,345 - INFO - Activating enhanced ransomware prevention...
+2025-04-21 09:19:37,345 - ERROR - Prevention Error: 'WindowsRansomwarePrevention' object has no attribute 'harden_system'
+2025-04-21 09:19:37,345 - INFO - Starting enhanced file rollback monitoring...
+2025-04-21 09:19:37,346 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:19:37,346 - INFO - Starting file system monitoring...
+2025-04-21 09:19:37,352 - INFO - File monitoring active on 3 directories
+2025-04-21 09:19:40,345 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:43,346 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:46,348 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:47,348 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:19:49,350 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:52,351 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:55,352 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:19:57,349 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:19:58,353 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:01,355 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:04,355 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:07,350 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:20:07,356 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:10,357 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:13,358 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:16,359 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:17,351 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:20:19,359 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:22,360 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:25,360 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:27,352 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:20:28,361 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:31,362 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:34,363 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:37,352 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:20:37,390 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:40,391 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:43,392 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:46,392 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:47,353 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:20:49,393 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:52,420 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:55,421 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:20:57,354 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:20:58,421 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:21:01,422 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:21:04,422 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:21:07,354 - ERROR - Rollback Error: 'WindowsRollbackSystem' object has no attribute 'get_recently_modified_files'
+2025-04-21 09:21:07,424 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:21:10,425 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:21:13,426 - ERROR - Detection Error: 'WindowsRansomwareDetector' object has no attribute 'collect_system_metrics'
+2025-04-21 09:21:14,890 - INFO - Stopping protection system...
+2025-04-21 09:21:14,893 - INFO - File monitoring stopped
+2025-04-21 09:21:16,426 - INFO - Detection module stopped
+2025-04-21 09:21:17,355 - INFO - Rollback module stopped
+2025-04-21 09:21:26,833 - WARNING - System is not running

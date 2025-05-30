@@ -1,0 +1,5 @@
+log_path = "ransomware_ai_logs.log"
+
+with open(log_path, "r", encoding="utf-8") as f:
+    for i in range(10):  # Preview first 10 lines
+        print(f.readline().strip())

@@ -1,0 +1,57 @@
+2025-03-23 09:00:36,714 - Disabled service: wscript.exe
+2025-03-23 09:00:36,750 - Disabled service: cscript.exe
+2025-03-23 09:00:36,781 - Disabled service: powershell.exe
+2025-03-23 09:00:36,855 - Secured file permissions for: C:\Users\Public
+2025-03-23 09:00:37,471 - \U0001f512 Network access blocked for suspicious activities.
+2025-03-23 14:37:14,825 - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-03-23 14:37:14,838 - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-03-23 14:37:14,853 - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-03-23 14:37:14,899 - Secured file permissions for: C:\Users\Public
+2025-03-23 14:37:15,046 - \U0001f512 Network access blocked for suspicious activities.
+2025-03-23 14:37:15,173 - \u2705 Registry and Task Scheduler secured.
+2025-03-23 14:37:18,975 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1124.0%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:18,975 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:22,349 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1134.4%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:22,349 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:25,705 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1098.9%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:25,706 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:29,272 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1038.8%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:29,272 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:32,684 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1081.6%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:32,684 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:36,158 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1117.1%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:36,159 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:39,505 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1145.3%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:39,506 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:42,855 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1133.9%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:42,855 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:46,248 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1109.2%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:46,248 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:49,635 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1123.4%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:49,635 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:53,063 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1134.3%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:53,063 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:56,418 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1145.7%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:56,418 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:37:59,756 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1138.8%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:37:59,756 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:38:03,102 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1137.6%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:38:03,102 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:38:06,474 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1136.3%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:38:06,474 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:38:09,819 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1073.3%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:38:09,819 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-23 14:38:13,298 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1113.7%, MEM: 9.974460394160751e-05%)
+2025-03-23 14:38:13,299 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-29 19:03:25,083 - \u26a0\ufe0f Service 'TermService' not found or already disabled.
+2025-03-29 19:03:25,098 - \u26a0\ufe0f Service 'RemoteRegistry' not found or already disabled.
+2025-03-29 19:03:25,116 - \u26a0\ufe0f Service 'wuauserv' not found or already disabled.
+2025-03-29 19:03:25,161 - Secured file permissions for: C:\Users\Public
+2025-03-29 19:03:25,343 - \U0001f512 Network access blocked for suspicious activities.
+2025-03-29 19:03:25,462 - \u2705 Registry and Task Scheduler secured.
+2025-03-29 19:03:29,172 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1162.7%, MEM: 9.974460394160751e-05%)
+2025-03-29 19:03:29,172 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-29 19:03:32,574 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1129.2%, MEM: 9.974460394160751e-05%)
+2025-03-29 19:03:32,574 - \u274c Failed to terminate system idle process: (pid=0)
+2025-03-29 19:03:36,000 - \u26a0\ufe0f High CPU/MEM usage detected: system idle process (CPU: 1161.3%, MEM: 9.974460394160751e-05%)
+2025-03-29 19:03:36,000 - \u274c Failed to terminate system idle process: (pid=0)

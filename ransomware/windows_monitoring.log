@@ -1,0 +1,8 @@
+2025-03-23 14:33:44,431 - \U0001f6a8 High Disk IO Detected: 81436174848 bytes
+2025-03-23 14:33:54,290 - \u274c Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-af8a27ff1efsm4863152a12.18 - gsmtp')
+2025-03-23 14:35:22,229 - 🚨 High Disk IO Detected: 81457531392 bytes
+2025-03-23 14:35:24,432 - ❌ Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22780f4acddsm47848305ad.56 - gsmtp')
+2025-03-23 14:35:29,457 - 🚨 High Disk IO Detected: 81458727424 bytes
+2025-03-23 14:35:31,570 - ❌ Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-301bf63d9e0sm9618766a91.48 - gsmtp')
+2025-03-23 14:35:36,594 - 🚨 High Disk IO Detected: 81459296768 bytes
+2025-03-23 14:35:38,534 - ❌ Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22780f45f35sm48033225ad.90 - gsmtp')

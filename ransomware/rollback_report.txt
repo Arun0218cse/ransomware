@@ -1,0 +1,7 @@
+🚨 Ransomware Rollback Summary 🚨
+
+Restored registry from backup
+Reset system settings
+Disabled service: wscript.exe
+Disabled service: cscript.exe
+Disabled service: powershell.exe
